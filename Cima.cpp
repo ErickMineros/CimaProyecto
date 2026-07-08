@@ -1,9 +1,6 @@
 #include <iostream>
-#include <windows.h>
 #include <cstdlib>
-#include <ctime>
 #include <fstream>
-#include <string>
 #include <filesystem>
 #include <random>
 
